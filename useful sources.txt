@@ -1,0 +1,13 @@
+https://www.hindawi.com/journals/scn/2018/3794603/ does scanning cause damage ? talks about active vs passive monitoring
+
+
+https://journals.sagepub.com/doi/full/10.1177/1550147718794615 IDS for ICS
+
+https://dl.acm.org/doi/abs/10.1145/1298306.1298314 passive vs active (NOT JUST OT)
+
+
+https://docs.lib.purdue.edu/dissertations/AAI3669495/ Furthermore, the ports which control the transfer of SCADA/ICS data run on insecure protocols [14], where even a single unexpected packet could cause a system overhaul and could stop the normal function of the equipment entirely. As these devices are the interface between networks and industrial assets such as pumps, turbines, and sensors, this could have significantly damaging consequences
+
+https://link.springer.com/chapter/10.1007/978-0-387-75462-8_13 passive scanner OT
+
+manolis sent one where they tried to analyse nmap
