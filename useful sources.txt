@@ -11,3 +11,11 @@ https://docs.lib.purdue.edu/dissertations/AAI3669495/ Furthermore, the ports whi
 https://link.springer.com/chapter/10.1007/978-0-387-75462-8_13 passive scanner OT
 
 manolis sent one where they tried to analyse nmap
+
+https://github.com/ITI/ICS-Security-Tools/tree/master/tools/audit some scanning tools
+
+https://github.com/hslatman/awesome-industrial-control-system-security a better list
+
+https://pdfs.semanticscholar.org/50aa/1c4a62e826ff2ccaa2801f1018df43e9a06a.pdf talks about how scan breaks a plc
+
+https://arxiv.org/pdf/1608.04295.pdf & https://uwaterloo.ca/embedded-software-group/sites/ca.embedded-software-group/files/uploads/files/ieee-esl-precise-measurements.pdf noisy measurements

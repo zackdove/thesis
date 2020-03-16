@@ -1,0 +1,23 @@
+Tool,Protocols/Services,Proprietary,Purpose
+PLCScan,"s7comm, Modbus",,PLC device Scaner
+Nmap-,"s7comm, EtherNet/IP, Modbus",,General port scanner with many extra plugins
+Nessus ,Many,,Generalised vulnerability scanner
+Redpoint,"BACnet, CoDeSys V2, EtherNet/IP, Niagara Fox, Modbus, Omron FINS, PC Worx, ProConOS, s7comm",,ICS device enumeration
+Industrial Control System Exploitation Framework,"Profinet DCP, Vxworks 6.x, S7comm, EtherNet/IP",,ICS exploitation framework
+smod,Modbus,,Modbus penetration testing framework
+Industrial Security Exploitation Framework,"Modbus, S7comm",,"ICS exploitation framework, based on NSA tools"
+Modscan ,Modbus,,Modbus device scanner
+SCADAShutdownTool,?,,PLC exploitation framework with GUI
+Sixnet-tools,Sixnet Universal,,Sixnet device exlpoitation framework
+s7scan ,s7comm,,Improvemet of PLCscan
+scada-tools,Profinet,,Contains scripts for enumerating Siemens devices over Profinet.
+modbus-scanner,Modbus,,Modbus registry scanner
+Shodan,?,,Search engine for IoT
+masscan,-,,Internet-scale port scanner
+modbus-discover,Modbus,,Improvement on Modscan
+PLCScanner,s7comm,,Enumerates Siemens S7 PLCs with GUI.
+SimaticScan,s7comm,,Vulnerability scanner specialised to Siemens SIMATIC PLCs. (ACADEMIC) uses plcscan
+PiVOTScan,"s7comm, modbus",,OT vulnerability scanner (ACADEMIC)
+Simatic Manager,?,X, Siemens proprietary software for managing Siemens PLCs.
+FactoryTalk,?,X,Rockwell's proprietary software for managing Rockwell PLCs.
+Zmap,-,,"Internet scale port scanner, similar to masscan"

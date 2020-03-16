@@ -1,0 +1,100 @@
+Thesis Workings
+
+Put X for done
+
+Sort out mirroring & collection
+could use ethernet going straight into kali
+
+capture ip.addr == 192.168.0.20 && ip.addr == 192.168.0.10
+IPS
+kali 20
+plc 10
+hmi 9
+wireshark 30
+mac 40
+
+
+-------TOOLS--------------
+ping
+
+
+nmap
+all ips, all portsDONE
+all ips, 1 port DONE
+1 ip, all ports  DONE
+1 ip 1 port DONE
+
+s7-info = need joe's altering
+FIXED
+DONE
+
+
+openvas
+need to dl proper version
+hackertarget help
+admin / password
+all working, just need to test scan
+doesnt work
+try reinstalling on fresh?
+fresh install works :)
+maybe need to update nvt
+dont do full vuln scan, its way too deep  and obvious
+just do the different types of discovery
+try redoing discovery, 1 and 2 look v different...
+add a range discovery scan to compare withh nessus
+
+
+nessus
+working on first vm,
+to launch: sudo /etc/init.d/nessusd start
+do range discovery scan
+
+plcscan
+gives error but still indicates something on ip at that port
+DONE
+
+
+s7scan good
+DONE,giveslots of details
+
+
+icsef
+all good
+s7-comm , also has s7comm+ but thats a different protocol
+DONE
+
+modbus-discover
+nmap script
+looks like it works
+DONE
+
+modscan
+works
+"whilst we were not using a device and network configured for modscan, i thought it may be beneficial to try a modbus scanner anyway"
+DONE
+
+zmap
+doesnt allow scanning of local networks out of the box so will have to edit blacklist
+only allows port specific scanning on local network
+ all ips, 1 port
+DONE
+
+proprietary ones?
+Siemens TIA, gotta wait for registration
+GOT, just need windows 7 or 10 now
+
+CONTROL
+leave for 5 mins
+DONE
+
+python pcap differ
+https://github.com/isginf/pcap-diff/blob/master/pcap_diff.py
+
+done
+-------------------
+isef uses plcscan exact same
+smod framework,first version no work (1.02, downloading 1.04), not working either
+scadashutdowntool windows
+scada-tools, lots of scripts 1 scanner, not working
+sixnet tools, less common, doesnt even work
+redpoint, nmap scripts, all work, but gotta use long command, check readme, just do:, s7 - SAME AS s7-info
