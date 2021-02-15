@@ -1,6 +1,6 @@
 # Computer Science Thesis - Zack Dove - University of Bristol
 
-## Investigating the Viability of Fingerprinting the Toolset Used ToProbe an Operational Technology Network, ProvidingAnother Indicative Vector to Use in Intrusion Detection Systems.
+## Investigating the Viability of Fingerprinting the Toolset Used to Probe an Operational Technology Network, Providing Another Indicative Vector to Use in Intrusion Detection Systems.
 
 
 ## Abstract
